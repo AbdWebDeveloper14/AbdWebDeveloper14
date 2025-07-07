@@ -1,12 +1,25 @@
-- 👋 Hi, I’m @AbdWebDeveloper14
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+👋 Hello World! I'm Abdullah
+🚀 Username: AbdWebDeveloper14
 
-<!---
-AbdWebDeveloper14/AbdWebDeveloper14 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a passionate 💻 Front-End Web Developer with a strong love for clean code, creative UI/UX, and responsive design. I enjoy turning ideas 💡 into interactive websites 🌐.
+
+🛠️ Tech Stack
+🧱 HTML | 🎨 CSS | ⚙️ JavaScript
+📱 Responsive Design (Mobile-First)
+🧩 WordPress | 🔧 Elementor
+🧠 UI/UX Best Practices
+🗂️ Git & GitHub
+
+📚 *Currently Learning*
+⚛️ React.js
+🎯 Tailwind CSS
+🛡️ Advanced JavaScript
+🎯 Goals
+🔄 Keep growing as a developer
+🤝 Contribute to open-source
+🌍 Build real-world web solutions
+
+📫 Let's Connect
+Feel free to explore my repos, star ⭐ what you like, and follow for future projects!
+"Code is like humor. When you have to explain it, it’s bad." 😄
+

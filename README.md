@@ -6,10 +6,12 @@
 🛠️ Tech Stack
 <table>
 <tr>
-<td>🧱 HTML </td> <td> 🎨 CSS </td> ⚙️ JavaScript
+<td>🧱 HTML </td> <td> 🎨 CSS </td> <td>⚙️ JavaScript</td>
 </tr>
-  </table>
-📱 Responsive Design (Mobile-First)
+  <tr>
+<td>📱 Responsive Design (Mobile-First)</td>
+  </tr>  
+</table>
 🧩 WordPress | 🔧 Elementor
 🧠 UI/UX Best Practices
 🗂️ Git & GitHub

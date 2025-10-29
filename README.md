@@ -1,10 +1,14 @@
 <h1>👋 Hello World! I'm Abdullah</h1>
 🚀 Username: <b></b>Muhammad Abdullah Dev</b>
 
-I'm a passionate 💻 Front-End Web Developer with a strong love for clean code, creative UI/UX, and responsive design. I enjoy turning ideas 💡 into interactive websites 🌐.
+<h3>I'm a passionate 💻 Front-End Web Developer with a strong love for clean code, creative UI/UX, and responsive design. I enjoy turning ideas 💡 into interactive websites 🌐.</h3>
 
 🛠️ Tech Stack
-🧱 HTML | 🎨 CSS | ⚙️ JavaScript
+<table>
+<tr>
+<td>🧱 HTML </td> <td> 🎨 CSS </td> ⚙️ JavaScript
+</tr>
+  </table>
 📱 Responsive Design (Mobile-First)
 🧩 WordPress | 🔧 Elementor
 🧠 UI/UX Best Practices

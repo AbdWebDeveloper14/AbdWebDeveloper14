@@ -1,5 +1,5 @@
-👋 Hello World! I'm Abdullah
-🚀 Username: Muhammad Abdullah Dev
+<h1>👋 Hello World! I'm Abdullah</h1>
+🚀 Username: <b></b>Muhammad Abdullah Dev</b>
 
 I'm a passionate 💻 Front-End Web Developer with a strong love for clean code, creative UI/UX, and responsive design. I enjoy turning ideas 💡 into interactive websites 🌐.
 
